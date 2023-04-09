@@ -8,9 +8,10 @@
 
 #define APP_DEBUG
 
+#include "BlynkEdgent.h"
+
 #define trig 14
 #define echo 12
-#include "BlynkEdgent.h"
 
 const char* ssid    = "SUVENDU_4G";
 const char* password = "9556444048";
